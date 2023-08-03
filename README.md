@@ -1,4 +1,4 @@
-# OIBSIP
+# OIBSIP_TASK 2
 
 In the project "NUMBER GUESSING GAME"
 1.The system generates a random number from a given range, say 1 to 100.
